@@ -2,7 +2,7 @@
 
 Transform your photos into fun, vibrant cartoons with our easy-to-use web application! 🌟 Simply upload an image and watch the magic happen. 🖼️✨
 
-Check it out live: [https://iam269.github.io/Cartoonify-Image/](https://iam269.github.io/Cartoonify-Image/)
+Check it out live: [https://itsiamdev.github.io/Cartoonify-Image/](https://itsiamdev.github.io/Cartoonify-Image/)
 
 ## Features
 - 🚀 Fast and simple image cartoonification
